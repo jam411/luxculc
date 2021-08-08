@@ -1,0 +1,11 @@
+#ifndef INCLUDE_WIFI_CONFIG_H
+#define INCLUDE_WIFI_CONFIG_H
+
+#define WIFI_CONFIG_SSID        "SSID_OF_YOUR_AP"
+#define WIFI_CONFIG_PASSWORD    "PASSWORD_OF_YOUR_AP"
+
+#define FIWARE_HOST "i483-2020.kerryman.systems"
+#define FIWARE_PORT (7896)
+#define FIWARE_PATH "/iot/d?i=bme280:810201"
+
+#endif /* INCLUDE_WIFI_CONFIG_H */
